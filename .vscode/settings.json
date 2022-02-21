@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "workbench.sash.hoverDelay": 500,
+    "workbench.list.mouseWheelScrollSensitivity": 2
+}
